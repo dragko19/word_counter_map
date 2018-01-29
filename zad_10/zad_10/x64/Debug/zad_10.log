@@ -1,0 +1,4 @@
+﻿  word_counter.cpp
+e:\dysk google\pw\gi\jtp moje\zad_10\zad_10\word_counter.h(53): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+e:\dysk google\pw\gi\jtp moje\zad_10\zad_10\word_counter.cpp(50): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+E:\DYSK GOOGLE\PW\GI\JTP MOJE\zad_10\zad_10\word_counter.cpp : fatal error C1083: Nie można otworzyć pliku kompilator wygenerował: 'E:\DYSK GOOGLE\PW\GI\JTP MOJE\zad_10\zad_10\x64\Debug\word_counter.obj': Permission denied

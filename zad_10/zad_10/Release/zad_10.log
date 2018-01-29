@@ -1,0 +1,3 @@
+﻿  Trwa generowanie kodu
+e:\dysk google\pw\gi\jtp moje\zad_10\zad_10\zad_10.cpp : fatal error C1083: Nie można otworzyć pliku kompilator pośredni: 'E:\DYSK GOOGLE\PW\GI\JTP MOJE\zad_10\Release\zad_10.ipdb': Permission denied
+LINK : fatal error LNK1257: generowanie kodu nie powiodło się
